@@ -14,6 +14,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
             Text("Test GIT")
+            Text("测试 融合")
         }
         .padding()
     }
