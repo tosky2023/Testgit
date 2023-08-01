@@ -12,6 +12,7 @@ struct TestgitApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            0000000000000000000000
         }
     }
 }
